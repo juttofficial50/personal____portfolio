@@ -10,7 +10,7 @@
     top: 0;
     width: 100%;
     z-index: 10;
-     border-bottom: 2px solid rgb(31, 38, 59);
+     border-bottom: 2px solid rgb(3, 203, 253);
 }  
 a{
     color: white;
@@ -30,10 +30,11 @@ a{
     margin: 20px;
 }
 .a .div1:hover{
-        border-left: 7px solid yellow;
+        border-left: 7px solid  rgb(0, 204, 255);
         transition: 0.2s;
         background-color: grey;
 }
+
 .div1 div{
     margin-top: 7px;
     margin-bottom: 5px;
@@ -43,6 +44,9 @@ a{
 .ana{
     margin-left: 20px;
     margin-right: 1060px;
+}
+.ana h1{
+    font-size: 30px;
 }
 .div1:first-of-type {
   margin-left: auto;

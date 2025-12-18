@@ -51,7 +51,7 @@ svg{
 }
 .dn{
     color: yellow;
-    text-align: center;
+    text-align: justify;
     margin-bottom: 20px;
       background-color: rgb(15, 10, 24);
     color: white;
@@ -68,7 +68,7 @@ svg{
     transition: 0.5s;
 }
 .dn p{
-    text-align: center;
+    text-align: justify;
    margin-top: 20px;
    margin-bottom: 20px;
    margin-left: 40px;
