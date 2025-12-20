@@ -108,5 +108,31 @@ p {
     width: 0;
   }
 
-  /* delete */
+  /* d
+  elete */
 }
+.div_4{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.div_4 div{
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.div_4 div button{
+  border: none;
+  border-radius: 30px;
+  background-color: rgb(205, 250, 250);
+  color: black;
+}
+.div_4 button:hover{
+  background-color: #00030a;
+  color: white;
+  transition: 0.5s;
+}
+.hnow{
+  display: flex;
+}
+
+
