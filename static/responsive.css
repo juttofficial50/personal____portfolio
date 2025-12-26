@@ -20,8 +20,7 @@
     }
 
     .div1 {
-        height: 8px;
-        width: 20px;
+        display: none;
     }
 
     .div_1 img {
@@ -32,7 +31,13 @@
     }
 
     .container_1 {
-        background-image: url(person-working-html-computer.jpg);
+        background:
+            linear-gradient(rgba(15, 29, 68, 0.6),
+                rgba(15, 29, 68, 0.6)),
+            url(person-working-html-computer.jpg);
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
         height: 667px;
         width: 100%;
     }
@@ -190,10 +195,11 @@
         justify-content: flex-start;
     }
 
-    .divv{
+    .divv {
         display: flex;
         margin-left: 100px;
     }
+
     .div_1 img {
         height: 150px;
         width: 150px;
@@ -202,7 +208,13 @@
     }
 
     .container_1 {
-        background-image: url(person-working-html-computer.jpg);
+        background:
+            linear-gradient(rgba(15, 29, 68, 0.6),
+                rgba(15, 29, 68, 0.6)),
+            url(person-working-html-computer.jpg);
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
         height: 667px;
         width: 100%;
     }

@@ -26,7 +26,10 @@ a {
     justify-content: flex-end;
     height: 100px;
 }
-
+.divv{
+    display: flex;
+    margin-right: 20px;
+}
 .a .div1 {
     border-radius: 5px;
     height: 40px;

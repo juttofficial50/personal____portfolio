@@ -17,13 +17,14 @@
     box-shadow: 0 0 10px rgb(0, 238, 255);
     transition: 0.5s;
 }
-.it img:hover{
+.it svg:hover{
     transform: scale(1.05);
     transition: 0.5s;
 }
-.item4 div a img{
+.item4 div a svg{
     margin-left: 320px;
 }
+
 .section3 h2{
     color: rgb(0, 242, 255);
     font-family: sans-serif;
